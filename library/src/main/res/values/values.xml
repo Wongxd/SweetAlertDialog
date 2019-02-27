@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string name="sweet_alert_dialog_default_title">Here\'s a message!</string>
+    <string name="sweet_alert_dialog_ok">OK</string>
+    <string name="sweet_alert_dialog_cancel">Cancel</string>
+    <string name="sweet_alert_loading">Loading...</string>
+</resources>

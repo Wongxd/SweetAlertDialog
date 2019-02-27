@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="-45"
+        android:pivotX="110%"
+        android:pivotY="42%"
+        android:duration="0"
+        android:fillAfter="true">
+    </rotate>
+
+    <rotate
+        android:fromDegrees="0"
+        android:toDegrees="-45"
+        android:pivotX="10%"
+        android:pivotY="42%"
+        android:duration="0"
+        android:fillAfter="true">
+    </rotate>
+</set>
+
+    <!--<?xml version="1.0" encoding="utf-8"?>-->
+    <!--<set xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:sweet="http://schemas.android.com/apk/res-auto"-->
+    <!--android:interpolator="@android:anim/linear_interpolator"-->
+    <!--android:shareInterpolator="true">-->
+
+    <!--<alpha-->
+    <!--android:fromAlpha="0"-->
+    <!--android:toAlpha="1"-->
+    <!--android:duration="400"/>-->
+
+    <!--<Rotate3dAnimation-->
+    <!--sweet:rollType="x"-->
+    <!--sweet:fromDeg="100"-->
+    <!--sweet:toDeg="0"-->
+    <!--sweet:pivotX="50%"-->
+    <!--sweet:pivotY="50%"-->
+    <!--android:duration="400"/>-->
+    <!--</set>-->
